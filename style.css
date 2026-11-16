@@ -1,0 +1,153 @@
+.header{
+    background-color:rgb(95, 95, 189);
+    
+    border-radius: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.content{
+    color: aliceblue;
+    text-align: center;
+
+}
+.link{
+     text-align: center;
+    
+
+}
+.link a{
+border-radius: 40px;
+    background-color: rgb(226, 233, 226);
+    text-decoration: none;
+    padding: 10px;
+}
+
+.contentabout{
+border-radius: 40px;
+margin-top: 20px;
+padding: 50px 50px;
+border: 600px;
+background-color: antiquewhite;
+width: 100%;
+
+}
+.contentabout img{
+
+    width: 10%;
+    border-radius: 500px;
+   
+    display: inline;
+    float: left;
+}
+span{
+    color: rgb(95, 95, 189)
+    ;
+}
+.button{
+    position :static;
+     -webkit-text-fill-color:rgb(95, 95, 189);
+    
+    padding: 2%;
+     
+}
+.myskils{
+    border-radius: 40px;
+    background-color: antiquewhite;
+    width: 100%;
+ margin-top: 20px;
+
+padding: 100px;
+
+}
+.myskils h2{
+   color:   rgb(95, 95, 189);
+
+
+}
+.myskils h3{
+color:   rgb(95, 95, 189);
+
+}
+.Html5{
+    width: 25%;
+     float: left;
+     border: 20px;
+   
+}
+.css{
+  width: 25%;
+     float: left;
+
+     }
+.javascript{
+
+    width: 25%;
+     float: left;
+     }
+.react{
+    width: 25%;
+     float: left;
+}
+.experence{
+ border-radius: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.experence h2{
+    color:rgb(95, 95, 189) ;
+}
+.senior{
+
+    border-radius: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+}
+.senior img{
+     width: 10%;
+    border-radius: 500px;
+   padding-left: 20px;
+    display: inline;
+}
+.developer{
+    border-radius: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+.developer img{
+    width: 10%;
+    border-radius: 500px;
+   padding-left: 20px;
+    display: inline;
+}
+.contact{
+    background-color:rgb(95, 95, 189);
+    
+    border-radius: 40px;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contact h2{
+    color: aliceblue;
+}
+.contactlink{
+    text-align: center;
+}
+.contactlink  a{
+    border-radius: 40px;
+    background-color: rgb(226, 233, 226);
+    text-decoration: none;
+    padding: 10px;
+
+
+}
